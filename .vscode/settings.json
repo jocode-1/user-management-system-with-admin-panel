@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "onWindowChange",
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.preferredDarkColorTheme": "Default Light+"
+}
